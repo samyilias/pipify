@@ -1,0 +1,32 @@
+{
+  "name": "pipify",
+  "version": "1.0.0",
+  "description": "pipe utility function for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "lint":"xo lint"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samyilias/pipify.git"
+  },
+  "keywords": [
+    "pipe",
+    "utility",
+    "function",
+    "for",
+    "javascript"
+  ],
+  "author": "Ilias Aboubeker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samyilias/pipify/issues"
+  },
+  "homepage": "https://github.com/samyilias/pipify#readme",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.40.2"
+  }
+}
